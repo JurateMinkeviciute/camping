@@ -1,4 +1,4 @@
-#YelpCamp
+#Camp
 
 ##Initial Setup
 * Add Landing Page
